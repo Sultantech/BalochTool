@@ -6,14 +6,14 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               create by SuLtan                  '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '           MeeR                                '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
@@ -33,7 +33,7 @@ def main():
    print '   (  /   `-._//^`           '
    print '    `Y-.____(__}             '
    print '     |     {__)              ' 
-   print '           ()   V.1.0        '
+   print '           ()Sultan   V.420.0        '
 
 main()
 print '[1] start the attack'
