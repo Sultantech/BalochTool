@@ -1,5 +1,5 @@
 #!/usr/bin/python
-'''create by Ha3MrX'''
+'''create by Khosa Baloch'''
 
 import smtplib
 from os import system
